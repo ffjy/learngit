@@ -11,4 +11,6 @@
     ```
         1. git branch [name] // 创建分支
         2. git checkout [name] // 切换分支
+        3. git branch -d [name] // 删除分支
+        4. git merge [name] // 合并分支
     ```
