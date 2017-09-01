@@ -5,3 +5,10 @@
 
 文件状态图解
 ![Git管理生命](./image/lifecycle.png)
+
+2. 分支
+
+    ```
+        1. git branch [name] // 创建分支
+        2. git checkout [name] // 切换分支
+    ```
